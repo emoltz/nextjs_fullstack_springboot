@@ -1,6 +1,6 @@
 # Spring Boot + Next.js Project
 
- https://owl-ai.vercel.app/
+www.teacherstoolkit.app
  
  
 See https://github.com/emoltz/Owl_AI for Nextjs code
